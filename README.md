@@ -5,13 +5,6 @@
 
 <h3 align="center">YouTube</h3>
 
-
-<p align="center">
-  <img src="https://img.shields.io/github/issues/Jay-Tillu/Xylophone">
-  <img src="https://img.shields.io/github/forks/Jay-Tillu/Xylophone">
-  <img src="https://img.shields.io/github/stars/Jay-Tillu/Xylophone">
-</p>
-
 <p align="center">
 Fully functional YouTube clone in flutter with API.
 </p>
@@ -36,15 +29,3 @@ Fully functional YouTube clone in flutter with API.
 <p align="center">
   <img src="https://github.com/Jay-Tillu/YouTube-Clone/blob/main/assets/GitHub%20assets/youtube%20gif.gif?raw=true">
 </p>
-
-## Plugins
-
-* http:
-* image_ink_well: ^0.1.0
-* font_awesome_flutter: ^8.5.0
-* video_player:
-
-## Technologies
-
-* Flutter -- version 1.12.13+hotfix.4
-* Dart -- version 2.7.0
